@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="db_image">
+    <db_image action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <format>png</format>
+        <height>113</height>
+        <image/>
+        <name>bitbucket_bw.png</name>
+        <size_bytes>2408</size_bytes>
+        <sys_class_name>db_image</sys_class_name>
+        <sys_created_by>reuben.stump</sys_created_by>
+        <sys_created_on>2016-06-15 18:37:40</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>afbe9a9113082200913abcc32244b062</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>bitbucket_bw.png</sys_name>
+        <sys_package display_value="Bitbucket Management" source="x_snc_bitbucket">186ec25d13c42200913abcc32244b0f3</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Bitbucket Management">186ec25d13c42200913abcc32244b0f3</sys_scope>
+        <sys_update_name>db_image_afbe9a9113082200913abcc32244b062</sys_update_name>
+        <sys_updated_by>reuben.stump</sys_updated_by>
+        <sys_updated_on>2016-06-15 18:37:46</sys_updated_on>
+        <thumbnail/>
+        <width>98</width>
+    </db_image>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>image</file_name>
+        <image_height/>
+        <image_width/>
+        <size_bytes>2408</size_bytes>
+        <size_compressed>2431</size_compressed>
+        <sys_created_by>reuben.stump</sys_created_by>
+        <sys_created_on>2016-06-15 18:37:46</sys_created_on>
+        <sys_id>97ce5e9113082200913abcc32244b000</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>reuben.stump</sys_updated_by>
+        <sys_updated_on>2016-06-15 18:37:46</sys_updated_on>
+        <table_name>ZZ_YYdb_image</table_name>
+        <table_sys_id>afbe9a9113082200913abcc32244b062</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="image" sys_id="97ce5e9113082200913abcc32244b000">97ce5e9113082200913abcc32244b000</sys_attachment>
+        <sys_created_by>reuben.stump</sys_created_by>
+        <sys_created_on>2016-06-15 18:37:46</sys_created_on>
+        <sys_id>d7ce5e9113082200913abcc32244b000</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>3228</length>
+        <position>1</position>
+        <sys_attachment display_value="image" sys_id="97ce5e9113082200913abcc32244b000">97ce5e9113082200913abcc32244b000</sys_attachment>
+        <sys_created_by>reuben.stump</sys_created_by>
+        <sys_created_on>2016-06-15 18:37:46</sys_created_on>
+        <sys_id>5bce5e9113082200913abcc32244b000</sys_id>
+    </sys_attachment_doc>
+</record_update>
